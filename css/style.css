@@ -11,3 +11,12 @@ header{
     height: 50px;
     margin-top: 40px;
 }
+/* colore autore */
+div{
+    color: #808080;
+}
+
+/* colore booleaner */
+span{
+    color: #20A9E5;
+}
