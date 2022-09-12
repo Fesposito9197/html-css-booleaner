@@ -20,3 +20,14 @@ header{
 span{
     color: #20A9E5;
 }
+
+/* colore tabella */
+th{
+    background-color: #20A9E5;
+    color: white;
+    
+}
+
+.tabella{
+    background-color: #B1E5F2;
+}
