@@ -1,0 +1,13 @@
+/* banner azzurro  */
+header{
+    background-image: url('../img/pattern.png');
+    background-repeat: repeat-x;
+    height: 100px;
+    background-color:#4EA0FF ;
+}
+
+/* logo the booleaner */
+.logo{
+    height: 50px;
+    margin-top: 40px;
+}
