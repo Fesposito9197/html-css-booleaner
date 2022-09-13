@@ -60,5 +60,8 @@ h4{
     height: 207px;
     width: 311px;
 }
-    
+    .container{
+        max-width: 1110px;
+        margin: auto;
+    }
 
