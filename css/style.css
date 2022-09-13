@@ -25,7 +25,7 @@ span{
 th{
     background-color: #20A9E5;
     color: white;
-    
+    text-align: left;
 }
 
 .tabella{
@@ -58,4 +58,7 @@ h4{
 
 .bordi-tabella{
     border-collapse: collapse;
+}
+.cell-bigger{
+    width: 50%;
 }
