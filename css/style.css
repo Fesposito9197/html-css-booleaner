@@ -32,6 +32,12 @@ th{
     background-color: #B1E5F2;
 }
 
+.bordi-tabella{
+    border-collapse: collapse;
+}
+.cell-bigger{
+    width: 50%;
+}
 /* footer */
 h4{
     color: #808080;
@@ -56,9 +62,3 @@ h4{
     background-repeat: no-repeat;
 }
 
-.bordi-tabella{
-    border-collapse: collapse;
-}
-.cell-bigger{
-    width: 50%;
-}
